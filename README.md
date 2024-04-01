@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=1FF76C&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Stefane+Fivaz!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Switzerland 🇨🇭</h3>
+<h3 align="center">A passionate software developer from Switzerland🇨🇭</h3>
 
 <br/>
 
@@ -33,8 +33,8 @@
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2> 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vuejs,angular,svelte,css,java" alt="languages-frameworks-tools"/>
-    <img src="https://skillicons.dev/icons?i=python,php,nodejs,aws,firebase,docker,git,bitbucket" alt="languages-frameworks-tools"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vuejs,svelte,css" alt="languages-frameworks-tools"/>
+    <img src="https://skillicons.dev/icons?i=python,php,nodejs,aws,firebase,docker" alt="languages-frameworks-tools"/>
 </div>
 
 <br/>
